@@ -1,0 +1,158 @@
+*{
+    font-family: Arial;
+    font-size:20px;
+    text-align: center;
+}
+body
+{
+    background-color: black;
+}
+
+#nav
+{
+    border-color:brown;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    background-color:blanchedalmond;
+    opacity:0.7;
+    height:40px;
+    width:70%;
+    margin-top:20px;
+    margin-left:25px;
+}
+#title
+{
+    border-color:brown;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    padding-left:0%;
+    font-size: 55px;
+    color:bisque;
+    margin-top:20px;
+    margin-left:20px;
+    background-color: chocolate;
+    opacity:0.8;
+    height: 90px;
+    width:75%;
+}
+#logo
+{
+    width:100%;
+    height:120px;
+    float:left;
+     
+}
+#header
+{
+    width:94%;
+    margin-top:25px;
+    margin-left:25px;
+}
+img
+{
+    
+    padding-left:15%;
+    width:80%;
+    height:100%;  
+}
+
+menu
+{
+    border-style: solid;
+    border-color:black;
+}
+a
+{
+    padding-left:30px;
+    text-decoration: none;
+    color:brown;
+}
+a:hover
+{
+    background-color: darkred;
+    color:white;
+}
+.test
+{
+    margin-left:25px;
+    background-color: black;
+    width:70%;
+    float:left;
+    height: fit-content;
+}
+.test2
+{
+    padding:20px;
+    border-color:brown;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    margin-left:15px;
+    float:left;
+    width:20%;
+    opacity:0.75;
+    background-color: blanchedalmond;
+    height: inherit;
+}
+.content
+{
+    height: fit-content;
+    margin-top:30px;
+}
+#contentImg
+{
+    background-color: black;
+    width:60%;
+    padding-left:10px;    
+}
+.contentBg
+{
+    background-color: black;
+    padding: 10px;
+}
+
+#contentImg
+{
+    border-color:blanchedalmond;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    background-color: black;
+    padding: 10px;
+}
+.written
+{
+    opacity:0.75;
+    border-color:brown;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color:blanchedalmond;
+}
+#milkShake
+{
+    margin-top:10px;
+    width:80%;
+    height:30%;
+}
+
+#grainedCoffee
+{
+    height:25%;
+    margin-top:15px;
+}
+
+#icecream
+{
+    height:25%;
+    padding-top:15px;
+}
+
+hr
+{
+    border-color:brown;
+    border-style:solid;
+}
